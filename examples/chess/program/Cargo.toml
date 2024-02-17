@@ -1,9 +1,0 @@
-[workspace]
-[package]
-version = "0.1.0"
-name = "chess-program"
-edition = "2021"
-
-[dependencies]
-chess = "3.2.0"
-sp1-zkvm = { path = "../../../zkvm" }
